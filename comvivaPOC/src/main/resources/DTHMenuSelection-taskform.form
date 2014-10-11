@@ -1,0 +1,23 @@
+
+<form id="1943330270">
+<property name="subject" value=""/>
+<property name="name" value="DTHMenuSelection-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="1" name="staticMenuSelection" type="InputText" id="78270953">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;output_ (staticMenuSelection)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="output_"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="staticMenu" type="InputText" id="1499957554">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;input_ (staticMenu)quot;"/>
+<property name="inputBinding" value="input_"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="input_" name="#FF8881" type="basicType" outId="" value="java.lang.String" id="staticMenu"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="output_" value="java.lang.String" id="staticMenuSelection"/>
+</form>
