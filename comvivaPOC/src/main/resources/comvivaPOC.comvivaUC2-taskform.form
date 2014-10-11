@@ -1,0 +1,203 @@
+
+<form id="1327471159">
+<property name="subject" value=""/>
+<property name="name" value="comvivaPOC.comvivaUC2-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="24" name="subscriberpayload" type="InputText" id="889834962">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;subscriberpayload (subscriberpayload)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="subscriberpayload"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="15" name="packListString" type="InputText" id="593990722">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;packListString (packListString)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="packListString"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="19" name="pinpayload" type="InputText" id="918396595">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;pinpayload (pinpayload)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pinpayload"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="7" name="msisdnapioutput" type="InputText" id="2021072887">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;msisdnapioutput (msisdnapioutput)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="msisdnapioutput"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="8" name="msisdnpayload" type="InputText" id="1938088433">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;msisdnpayload (msisdnpayload)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="msisdnpayload"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="6" name="moneypayload" type="InputText" id="922045822">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;moneypayload (moneypayload)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="moneypayload"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="23" name="subscriberapioutput" type="InputText" id="1383009325">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;subscriberapioutput (subscriberapioutput)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="subscriberapioutput"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="11" name="pack_packID" type="InputText" id="1948558324">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;packID (pack)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pack/packID"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="4" name="merchantpayload" type="InputText" id="714275915">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;merchantpayload (merchantpayload)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="merchantpayload"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="12" name="pack_packNo" type="InputText" id="1991089112">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;packNo (pack)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pack/packNo"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="20" name="selectedPackID" type="InputText" id="669411584">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;selectedPackID (selectedPackID)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="selectedPackID"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="13" name="pack_validity" type="InputText" id="16369632">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;validity (pack)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pack/validity"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="18" name="pinnumber" type="InputText" id="906963279">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;pinnumber (pinnumber)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pinnumber"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="5" name="moneyapioutput" type="InputText" id="1050343061">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;moneyapioutput (moneyapioutput)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="moneyapioutput"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="balance" type="InputText" id="2125843132">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;balance (balance)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="balance"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="14" name="packList_listOfPacks" type="MultipleSubform" id="627722679">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;listOfPacks (packList)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="packList/listOfPacks"/>
+<property name="fieldClass" value="java.util.List"/>
+</field>
+<field position="17" name="pinapioutput" type="InputText" id="1653244779">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;pinapioutput (pinapioutput)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pinapioutput"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="16" name="packSelection" type="InputText" id="1250534555">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;packSelection (packSelection)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="packSelection"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="3" name="merchantapioutput" type="InputText" id="337241887">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;merchantapioutput (merchantapioutput)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="merchantapioutput"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="10" name="pack_packDesc" type="InputText" id="66616744">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;packDesc (pack)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pack/packDesc"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="22" name="staticMenuSelection" type="InputText" id="1124277828">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;staticMenuSelection (staticMenuSelection)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="staticMenuSelection"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="2" name="getpackpayload" type="InputText" id="1901212707">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;getpackpayload (getpackpayload)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="getpackpayload"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="1" name="getpackapioutput" type="InputText" id="543404528">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;getpackapioutput (getpackapioutput)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="getpackapioutput"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="21" name="staticMenu" type="InputText" id="1827226027">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;staticMenu (staticMenu)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="staticMenu"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="9" name="pack_amount" type="InputText" id="1525523899">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;amount (pack)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="pack/amount"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="balance" value="java.lang.String" id="balance"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="getpackapioutput" value="java.lang.String" id="getpackapioutput"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="getpackpayload" value="java.lang.String" id="getpackpayload"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="merchantapioutput" value="java.lang.String" id="merchantapioutput"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="merchantpayload" value="java.lang.String" id="merchantpayload"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="moneyapioutput" value="java.lang.String" id="moneyapioutput"/>
+<dataHolder inputId="" name="#BBBBBB" type="basicType" outId="moneypayload" value="java.lang.String" id="moneypayload"/>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="msisdnapioutput" value="java.lang.String" id="msisdnapioutput"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="msisdnpayload" value="java.lang.String" id="msisdnpayload"/>
+<dataHolder inputId="" name="#A7E690" type="dataModelerEntry" outId="pack" value="org.jbpm.comvivapoc.Pack" id="pack"/>
+<dataHolder inputId="" name="#B29FE4" type="dataModelerEntry" outId="packList" value="org.jbpm.comvivapoc.PackList" id="packList"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="packListString" value="java.lang.String" id="packListString"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="packSelection" value="java.lang.String" id="packSelection"/>
+<dataHolder inputId="" name="#9BCAFA" type="basicType" outId="pinapioutput" value="java.lang.String" id="pinapioutput"/>
+<dataHolder inputId="" name="#A7E690" type="basicType" outId="pinnumber" value="java.lang.String" id="pinnumber"/>
+<dataHolder inputId="" name="#B29FE4" type="basicType" outId="pinpayload" value="java.lang.String" id="pinpayload"/>
+<dataHolder inputId="" name="#0000A0" type="basicType" outId="selectedPackID" value="java.lang.String" id="selectedPackID"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="staticMenu" value="java.lang.String" id="staticMenu"/>
+<dataHolder inputId="" name="#FBB767" type="basicType" outId="staticMenuSelection" value="java.lang.String" id="staticMenuSelection"/>
+<dataHolder inputId="" name="#E9E371" type="basicType" outId="subscriberapioutput" value="java.lang.String" id="subscriberapioutput"/>
+<dataHolder inputId="" name="#000000" type="basicType" outId="subscriberpayload" value="java.lang.String" id="subscriberpayload"/>
+</form>
