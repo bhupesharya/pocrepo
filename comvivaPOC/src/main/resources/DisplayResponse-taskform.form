@@ -1,0 +1,15 @@
+
+<form id="862142828">
+<property name="subject" value=""/>
+<property name="name" value="DisplayResponse-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="subscriberapioutput" type="InputText" id="1504512526">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;input_ (subscriberapioutput)quot;"/>
+<property name="inputBinding" value="input_"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="input_" name="#E9E371" type="basicType" outId="" value="java.lang.String" id="subscriberapioutput"/>
+</form>
