@@ -1,0 +1,23 @@
+
+<form id="582933044">
+<property name="subject" value=""/>
+<property name="name" value="SelectPack-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="1" name="packSelection" type="InputText" id="1569509185">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;output_ (packSelection)quot;"/>
+<property name="inputBinding" value=""/>
+<property name="outputBinding" value="output_"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<field position="0" name="packListString" type="InputText" id="588342286">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;input_ (packListString)quot;"/>
+<property name="inputBinding" value="input_"/>
+<property name="outputBinding" value=""/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="input_" name="#9BCAFA" type="basicType" outId="" value="java.lang.String" id="packListString"/>
+<dataHolder inputId="" name="#FF8881" type="basicType" outId="output_" value="java.lang.String" id="packSelection"/>
+</form>
